@@ -21,14 +21,14 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "headshot.png"
   name             : "Prabhjyot Singh Saluja"
   pronouns         : # example: "she/her"  
   bio              : "This site contains various notes I've taken related to High-Performance Computing over the years."
   location         : "Providence, Rhode Island"
   employer         : "Brown University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "prabhjyot10@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile

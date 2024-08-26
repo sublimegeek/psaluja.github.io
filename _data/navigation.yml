@@ -5,19 +5,19 @@
 # prevent it from being included in the site.
 
 main:
-  - title: "Publications"
+  - title: "SLURM"
     url: /publications/
 
-  - title: "Talks"
+  - title: "Storage & GDS"
     url: /talks/    
 
-  - title: "Teaching"
+  - title: "AI and GPUs"
     url: /teaching/    
     
   - title: "Portfolio"
     url: /portfolio/
         
-  - title: "Blog Posts"
+  - title: "Linux"
     url: /year-archive/
     
   - title: "CV"
